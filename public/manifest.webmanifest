@@ -1,0 +1,21 @@
+{
+  "id": "/app",
+  "name": "FinanceX — Finanças pessoais",
+  "short_name": "FinanceX",
+  "description": "Organize sua vida financeira com lançamentos manuais.",
+  "lang": "pt-BR",
+  "start_url": "/app",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5f4ee",
+  "theme_color": "#276f63",
+  "icons": [
+    {
+      "src": "/financex-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
