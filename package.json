@@ -1,3 +1,4 @@
+
 {
   "name": "vite-react-app",
   "private": true,
@@ -14,7 +15,7 @@
   },
   "devDependencies": {
     "typescript": "~6.0.2",
-    "vite": "8.0.14"
+    "vite": "^7.0.0"
   },
   "dependencies": {
     "@blinkdotnew/sdk": "2.11.3",
@@ -63,3 +64,4 @@
     "lucide-react": "0.577.0"
   }
 }
+
